@@ -1,2 +1,2 @@
 gum static binary
-https://github.com/charmbracelet/gum/releases
+https://github.com/gum-org/gum
